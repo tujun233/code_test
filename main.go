@@ -21,6 +21,7 @@ func main() {
 	fmt.Println(1234)
 	fmt.Println("sdfsdf")
 	fmt.Println("sdfsdf123123")
+	fmt.Println("qwe")
 }
 
 func change(p []int) {
