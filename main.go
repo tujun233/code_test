@@ -17,6 +17,8 @@ func main() {
 	fmt.Println(p)
 	change(p)
 	fmt.Println(p)
+	fmt.Println(345)
+	fmt.Println(1234)
 }
 
 func change(p []int) {
